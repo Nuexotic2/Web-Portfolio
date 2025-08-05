@@ -1,0 +1,90 @@
+#Joke{
+  text-align: center;
+  background-color: azure;
+  position: relative; bottom: 20px;
+}
+
+.Equal{
+    position: relative; bottom: -50px;
+}
+
+html{
+    background-image: url(https://78.media.tumblr.com/0f97c4f1659f43b335acce339ef69246/tumblr_p06pi5aObi1wfbqeho2_1280.gif);
+    background-repeat: no-repeat;
+    background-size: 152%;
+    background-color: rgb(255, 255, 255);
+    
+}
+a{
+    background-color: black;
+    color: aqua;
+    display: inline;
+}
+#Type{
+    position: relative; bottom: 476px; left: 300px;
+}
+#Zebra{
+    position: relative; bottom: 510px; left: 50px;
+
+}
+#Lion{
+    position: relative; bottom: 530.5px; left: 850px;
+
+}
+#Whale{
+    position: relative; bottom: 550px; left: 1050px;
+
+}
+#Infinty{
+    position: relative; bottom: 130px; left: 120px;
+    border: solid; border-radius: 10px; border-color: azure; 
+}
+#Civil{
+    position: relative; bottom: -20px; left: -70px;
+    border: solid; border-radius: 10px; border-color: azure; 
+
+}
+#Non{
+    position: relative; bottom: 130px; left: 300px;
+    border: solid; border-radius: 10px; border-color: azure;
+
+}
+#Pope{
+    position: relative; bottom: -20px; left: 240px;
+    border: solid; border-radius: 10px; border-color: azure;
+}
+#Pain{
+    position: relative; bottom: -120px; left: -70px;
+    border: solid; border-radius: 10px; border-color: azure;
+}
+#Soon{
+    position:  relative; bottom: 130px; left: -482px;
+    border: solid; border-radius: 10px; border-color: azure;
+}
+#Lose{
+    position:  relative; bottom: -24px; left: 32px;
+    border: solid; border-radius: 10px; border-color: azure;
+}
+#Blue{
+    position:  relative; bottom: -25px; left: 32px;
+    border: solid; border-radius: 10px; border-color: azure
+}
+#Peak{
+    position:  relative; bottom: 285px; left: 932px;
+    border: solid; border-radius: 10px; border-color: azure    
+}
+#Mad{
+    position:  relative; bottom: 285px; left: 926px;
+    border: solid; border-radius: 10px; border-color: azure    
+}
+#Winter{
+    position:  relative; bottom: 135px; left: 52px;
+    border: solid; border-radius: 10px; border-color: azure    
+}
+#Cake{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: relative; bottom: 550px;    
+  color: aliceblue;
+  font-size: xx-large;
+}

@@ -1,0 +1,96 @@
+        .List{
+        font-size: larger;
+        color: rgb(37, 11, 236);
+        }
+        nav{
+            color: rgb(244, 245, 248);
+            position: relative; right: 40px;
+        }
+        a{
+            color: rgb(254, 95, 3);
+
+        }
+        #Mon{
+            position: relative; bottom: 337px;
+
+        }
+        #Sat{
+            position: relative; top: 43.6px; left: 300px;
+        }
+        .navbar-brand{
+            text-align: end;
+            font-size: larger;
+        }
+        
+        #Wed{
+            position: relative; bottom: 54.4px; left: 910px;
+            font-size: larger;
+        }
+        #Sun{
+            position: relative; top: 5px; left: 1215px;
+            font-size: larger;
+        }
+        #Fri{
+            position: relative; bottom: 16px;
+            font-size: larger;
+        }
+
+        h1{
+        text-align: center;
+        background-color: rgb(248, 245, 245);
+        position: relative; bottom: 23px;
+        }
+        img{
+            position:  relative; left: 900px; bottom: 80px;
+            border: solid; border-radius: 10cap; border-color: azure;
+        }
+        #Balt{
+            position:  relative; left: -250px; bottom: 80px;
+            border: solid; border-radius: 10cap; border-color: rgb(158, 12, 255); 
+        
+        }
+        #Poly{
+            position:  relative; left: -450px; bottom: -200px;
+            border: solid; border-radius: 10cap; border-color: azure; 
+        }
+        #Green{
+            position:  relative; left: -90px; bottom: -110px;
+            border: solid; border-radius: 10cap; border-color: azure; 
+        }
+        #Tri{
+            position: relative; left: 200px; bottom: -180px;
+            border: solid; border-radius: 10cap; border-color: azure; 
+        }
+        html{
+            background-image: url(https://giffiles.alphacoders.com/148/14823.gif);
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-color: rgb(255, 255, 255);
+        }
+        #Alien{
+            position: relative; left: 620px; bottom: 44.5px;
+            background-color: azure;
+            display: inline-block;
+            
+        }
+        #Super{
+            position: relative; right: 570px; bottom: 44.5px;
+            background-color: azure;
+            display: inline-block;
+
+        }
+        #Ultra{
+            position: relative; right: 320px; top: 145.5px;
+            background-color: azure;
+            display: inline-block;
+        }
+        #Final{
+            position: relative; right: 1050px; top: 195.5px;
+            background-color: azure;
+            display: inline-block;
+        }
+        #combo{
+            position: relative; left: 950px; top: 195.5px;
+            background-color: azure;
+            display: inline-block;
+        }
